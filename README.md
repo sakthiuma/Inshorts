@@ -1,5 +1,7 @@
 # Inshorts: news summary app using Java and Swing GUI
 
+Project created as a part of Java course at New York University.
+
 A maven application built using Swing GUI, providing users with summarized information on different news genres using JSoup library for fetching, parsing, and scrapping news articles across the internet.
 
 # Techonologies used: 
